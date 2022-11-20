@@ -84,40 +84,4 @@
 >
 > Sends all files to your discord webhook in beautiful embeds and a structured zip file
 
-<a id="screenshot"></a>
 
-
-### 📝 〢 Todo
-
-> - ~~Exodus wallet injection (get the password whenever the user logs in the wallet)~~
-> - More grabbers (VPN's, Gaming, Messengers)
-> - Keylogger
-> - Growtopia stealer
-> - Discord bot to build within discord ($build <webhook_url>)
-> - Dynamic encryption
-> - Automatic obfuscation when building
-> - Firefox stealer
-> - Fix browser history 
-> - Make it so it won't build with node-18 for less file size
-
-<a id="license"></a>
-
----
-
-### 📜 〢 License
-
-By downloading this, you agree to the Commons Clause license and that you're not allowed to sell this repository or any code from this repository. For more info see [commonsclause](https://commonsclause.com/)
-
-<a id="note"></a>
-
----
-
-### ⚠️ 〢 Note
-
-I am not responsible for any damages this software may cause. This was made for personal education.
-
-### Credits
-
-Credits to Pandoric / PandoricGalaxy for creating this beautiful README file
-
-<p align="center"><a href=#top>Back to Top</a></p>
