@@ -10,10 +10,6 @@
 
 - [📁 Setting up](#setup)
 - [⚔️ Features](#features)
-- [📸 Screenshots](#screenshot)
-- [📝 Todo](#todo)
-- [📜 License](#license)
-- [⚠️ Note](#note)
 
 <a id="setup"></a>
 
